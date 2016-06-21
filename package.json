@@ -1,0 +1,24 @@
+{
+  "name": "BasicProject",
+  "version": "0.0.1",
+  "description": "Basic project scaffolding",
+  "homepage": "https://github.com/JeremyFagis/BasicProject",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JeremyFagis/BasicProject"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.2",
+    "gulp-clean-css": "^2.0.10",
+    "gulp-concat": "^2.6.0",
+    "gulp-header": "^1.8.3",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-uglify": "^1.5.3",
+    "gulp-util": "^3.0.7"
+  }
+}
